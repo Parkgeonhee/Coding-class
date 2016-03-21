@@ -1,0 +1,2 @@
+# Coding-class
+print "hello world"
